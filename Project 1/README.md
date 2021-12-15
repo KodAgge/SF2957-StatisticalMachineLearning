@@ -5,3 +5,5 @@ This project consisted of using different classifying methods to predict the lab
 * Gaussian Process Classifier
 * Gaussian Process Regressor
 * Neural Networks
+
+The highest accuracy achieved was 100% with the two Gaussian Process methods.
